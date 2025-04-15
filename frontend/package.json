@@ -1,0 +1,15 @@
+{
+    "name": "frontend-sample",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "next": "^15.2.5",
+        "react": "18.2.0",
+        "react-dom": "18.2.0"
+    }
+}
